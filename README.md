@@ -1,13 +1,15 @@
-# ci-cd-final-project
 
-[![CI Build](https://github.com/maneaditya478-commits/ci-cd-final-project/actions/workflows/workflow.yml/badge.svg)](https://github.com/maneaditya478-commits/ci-cd-final-project/actions/workflows/workflow.yml)
+# devops-capstone-project
+
+[![CI Build](https://github.com/nishaaddhodapkar24-ai/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/nishaaddhodapkar24-ai/devops-capstone-project/actions/workflows/ci-build.yaml)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
+[![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://www.python.org/)
 [![Coverage](https://img.shields.io/badge/Coverage-97%25-brightgreen.svg)](#code-quality--test-coverage)
 
-**Project Name:** ci-cd-final-project<br>
-**Application:** Customer Accounts Microservice<br>
-**Repository:** https://github.com/maneaditya478-commits/ci-cd-final-project
+**Project Name:** devops-capstone-project  
+**Application:** Customer Accounts Microservice  
+**Repository:** https://github.com/nishaaddhodapkar24-ai/devops-capstone-project
+
 
 This repository contains the capstone project implementation for the **IBM DevOps and Software Engineering Professional Certificate**. It implements a cloud-native **Customer Accounts RESTful microservice** following Agile methodologies, Test-Driven Development (TDD), security hardening (Flask-Talisman security headers and CORS policies), containerization with Docker, Kubernetes orchestration manifests, and automated Continuous Integration / Continuous Delivery (CI/CD) pipelines with GitHub Actions and Tekton on Red Hat OpenShift.
 
